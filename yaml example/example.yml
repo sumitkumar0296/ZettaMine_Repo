@@ -1,0 +1,47 @@
+#String 
+name: rinkesh putta
+
+#number
+age: 99
+
+#String 
+city: hyderabad
+
+#Boolean
+Indian: yes
+
+#Array/List
+Qualifications: 
+  - SSC
+  - Intermedidate
+  - B.tech
+
+#Array/List
+technologies: 
+  - azure
+  - devops
+  - terraform
+  - yaml
+  - aks
+  - docker
+
+
+#Map/Dictonaries
+address: 
+  - present_address:
+      flatnumber: 101
+      areaname: begumpet
+      city: secunderabad
+      state: telangana
+
+  - Permanent_address: 
+      Flatno: 123
+      area: waltair
+      city: vizag 
+      state: andhra
+
+  - office_address:
+      plotno: 13
+      area: begumpet
+      name: zettamine
+      state: mumbai
